@@ -4,7 +4,7 @@
 
 int main()
 {
-    std::cout << "this is first try";
+    std::cout << "this is second try";
 }
 
 
